@@ -2285,7 +2285,7 @@ Large devices (desktops, less than 1200px)
 
 @media (max-width: 1199.98px) {
     .row-fit-lg > div > .slider, .row-fit-lg > div > .slider .glide__track, .row-fit-lg > div > .slider .glide__track *, .row-fit-lg > div > .img-box {
-        height: 100%;
+        height: auto;
     }
 
     .row-fit-lg > div > .slider .glide__slides li > * > * {
